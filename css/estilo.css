@@ -1,0 +1,20 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-caption h5 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  font-size: 1.2rem;
+}
+
+.card-title {
+  color: #007bff;
+}
+
+.bg-dark {
+  background-color: #343a40 !important;
+}
